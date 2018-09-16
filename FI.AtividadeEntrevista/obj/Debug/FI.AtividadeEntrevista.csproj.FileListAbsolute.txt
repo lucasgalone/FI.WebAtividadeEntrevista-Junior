@@ -1,0 +1,18 @@
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojResolveAssemblyReference.cache
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\finet\ELSILVA\Trabalho\FabricaSP\ELSILVA\Laboratorio\FI.WebAtividadeEntrevista-Inicial\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\wrodrigues\Desktop\Entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Gabriel Reis\Desktop\entrevista\FI.WebAtividadeEntrevista-Junior\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
